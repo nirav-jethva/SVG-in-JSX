@@ -12,6 +12,8 @@
 > **NOTE:**<br>
 > Implementation like this is `NOT RECOMMENDED` and used very carefully if needed to be used like this
 
+https://github.com/nirav-jethva/SVG-in-JSX/blob/main/src/app/1-inline/page.tsx#L7-L22
+
 ##### PROS
 - You can easily bind SVG attributes like `fill` or `stroke` to React state and props.
 - The SVG is part of the initial render, reducing external file requests.
